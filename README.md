@@ -6,6 +6,8 @@ As a note: this is technically "one workshop", but it's split up into two notebo
 
 (we also include the results of the notebook after the live demo - this is `intro-to-python-completed.ipynb`)
 
+The Engineering Transfer center [graciously recorded this workshop on YouTube](https://www.youtube.com/watch?v=SoKkqdzEeJ0)!
+
 ## Using These Notebooks
 
 We ran these workshops on [Google Colab](https://research.google.com/colaboratory/), a platform that allows any user with a Google account to run, store, and share their Jupyter Notebooks in the cloud! If you don't have prior experience with notebooks, we *strongly recommend* using Colab.
